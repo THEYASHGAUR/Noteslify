@@ -153,6 +153,7 @@ div.social {
 }
 .social i {
   color: #2a8ded;
+  cursor: pointer;
 }
 
 .copyright {
